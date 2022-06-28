@@ -1,4 +1,5 @@
-<img src="https://www.microsoft.com/en-us/research/uploads/prod/2019/11/Area_IconHeader_Sys_Prog_11_2019_1920x7204-1600x600.png" width="1080" height="360">
+<img src="https://www.microsoft.com/en-us/research/uploads/prod/2019/11/Area_IconHeader_Sys_Prog_11_2019_1920x7204-1600x600.png" width="1080" height="360" class="responsive">
+</div>
 <h2> Hey there! I'm Mibei Collins👋.</h2>
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
@@ -34,4 +35,5 @@
 <p align="left">
 <a href="https://twitter.com/MibeiCollins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MibeiCollins" height="30" width="45" /></a>
 </p>
+
 
