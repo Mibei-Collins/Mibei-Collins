@@ -1,4 +1,4 @@
-<img src="https://www.microsoft.com/en-us/research/uploads/prod/2019/11/Area_IconHeader_Sys_Prog_11_2019_1920x7204-1600x600.png" width="1080" height="360" class="responsive">
+<img src="https://www.microsoft.com/en-us/research/uploads/prod/2019/11/Area_IconHeader_Sys_Prog_11_2019_1920x7204-1600x600.png" width="auto" height="auto" class="responsive">
 </div>
 <h2> Hey there! I'm Mibei Collins👋.</h2>
 
