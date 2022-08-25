@@ -6,7 +6,6 @@
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; Studying Information Technology at Kabarak University.
-- 💼 &nbsp; I’m currently working on Full Stack Development projects.
 - 🌱 &nbsp; Learning more about Backend Architectures and Frontend Developement using NodeJS, ExpressJS, MongoDB and ReactJS.
 - ✍️ &nbsp; Pursuing Competitive Programming.
 
