@@ -31,9 +31,9 @@
 
 <h3> 🤝🏻 &nbsp; Lets connect </h3>
 <p align="left">
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
-<a href="https://twitter.com/MibeiCollins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MibeiCollins" height="30" width="45" /></a>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <a href="www.linkedin.com/in/collins-mibei-07cm" target="blank"><img align="center" src="https://icon-library.com/images/linkedin-icon-for-resume/linkedin-icon-for-resume-18.jpg" alt="MibeiCollins" height="35" width="40" /></a>
+<a href="https://twitter.com/MibeiCollins" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MibeiCollins" height="35" width="45" /></a>
 </p>
 
 
